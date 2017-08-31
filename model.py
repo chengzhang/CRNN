@@ -1,9 +1,5 @@
 #coding:utf-8 
 
-## TODO:
-## 0. align the initializers 
-## 1. bad result for labels that contain continuous repeated chars, like marry  
-
 import logging
 import numpy as np 
 import tensorflow as tf
