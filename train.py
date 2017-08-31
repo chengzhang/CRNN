@@ -10,10 +10,6 @@ from dataset import Dataset, label2word
 from model import CRNN 
 import utils
 
-## TODO:
-## 0. search better hyper parameter 
-## 1. logging the word, not the label 
-
 ## logging config
 logging.basicConfig(
   level = logging.INFO,
